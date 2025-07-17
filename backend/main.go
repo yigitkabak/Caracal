@@ -9,7 +9,7 @@ import (
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/rs/cors"
 	"github.com/foolin/goview"
-	"lens/backend/handlers"
+	"Caracal/backend/handlers"
 )
 
 func main() {
